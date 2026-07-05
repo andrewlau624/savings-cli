@@ -15,7 +15,7 @@ services:
       - "8000:8000"
     command:
       - "--model"
-      - "${MODEL}"
+      - "${VLLM_MODEL}"
       - "--tensor-parallel-size"
       - "${TENSOR_PARALLEL_SIZE}"
       - "--gpu-memory-utilization"

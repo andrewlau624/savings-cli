@@ -9,8 +9,7 @@ venv/
 uv.lock
 
 # Rust
-cli/target/
-*/target/
+target/
 
 # Terraform
 infra/terraform/**/.terraform/

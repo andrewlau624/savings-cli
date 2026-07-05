@@ -1,0 +1,13 @@
+# Model registry. The gateway reads this to know which models it accepts,
+# what the backend calls each one, and which to use by default.
+
+default = "qwen-coder"
+
+
+[[models]]
+name = "qwen-coder"
+served_name = "qwen2.5-coder:1.5b"
+
+[[models]]
+name = "qwen-coder-big"
+served_name = "qwen2.5-coder:32b"
