@@ -1,0 +1,1 @@
+/Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/gateway: /Users/andrewlau/Documents/Code/Projects/savings-cli/gateway/src/api/health.rs /Users/andrewlau/Documents/Code/Projects/savings-cli/gateway/src/api.rs /Users/andrewlau/Documents/Code/Projects/savings-cli/gateway/src/app.rs /Users/andrewlau/Documents/Code/Projects/savings-cli/gateway/src/main.rs

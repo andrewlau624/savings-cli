@@ -1,0 +1,14 @@
+/Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/deps/serde-f9f54e39045331ee.d: /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/build/serde-2eeca633acfab739/out/private.rs
+
+/Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/deps/libserde-f9f54e39045331ee.rlib: /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/build/serde-2eeca633acfab739/out/private.rs
+
+/Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/deps/libserde-f9f54e39045331ee.rmeta: /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/build/serde-2eeca633acfab739/out/private.rs
+
+/Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/andrewlau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/build/serde-2eeca633acfab739/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/andrewlau/Documents/Code/Projects/savings-cli/target/debug/build/serde-2eeca633acfab739/out

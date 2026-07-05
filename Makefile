@@ -1,6 +1,8 @@
-.PHONY: help install lint
+.PHONY: help install lint serve serve-down
 
 .DEFAULT_GOAL := help
+
+BACKEND ?= ollama
 
 help:
 	@grep -Eh '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
@@ -11,3 +13,9 @@ install:
 
 lint:
 	pre-commit run --all-files
+
+serve:
+	docker compose --env-file .env -f serving/docker-compose.yml --profile $(BACKEND) up -d
+
+serve-down:
+	docker compose -f serving/docker-compose.yml --profile $(BACKEND) down
