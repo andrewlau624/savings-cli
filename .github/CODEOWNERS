@@ -1,0 +1,7 @@
+# Default owner for everything in the repo
+* @andrewlau
+
+# Component owners (add teammates here as the project grows)
+/gateway/  @andrewlau
+/cli/      @andrewlau
+/infra/    @andrewlau

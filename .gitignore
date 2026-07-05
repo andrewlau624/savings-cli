@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+.uv/
+uv.lock
+
+# Rust
+cli/target/
+*/target/
+
+# Terraform
+infra/terraform/**/.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+crash.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+!.env.example
+
+# Build artifacts
+*.tar.gz
+*.zip
+
+# docker
+*.container
+*.image

@@ -1,0 +1,4 @@
+# Optional: run vLLM as a systemd unit instead of Docker.
+# Copy to /etc/systemd/system/vllm.service, then:
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now vllm
