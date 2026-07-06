@@ -33,6 +33,9 @@ Thumbs.db
 .env
 !.env.example
 
+# Local agent instructions (not shared)
+AGENTS.md
+
 # Build artifacts
 *.tar.gz
 *.zip

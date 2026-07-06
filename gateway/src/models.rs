@@ -21,4 +21,11 @@ impl ModelsConfig {
             toml::from_str(&text).with_context(|| format!("parsing {path}"))?;
         Ok(config)
     }
+
+    pub fn served_name(&self, name: &str) -> Option<&str> {
+        self.models
+            .iter()
+            .find(|m| m.name == name)
+            .map(|m| m.served_name.as_str())
+    }
 }
